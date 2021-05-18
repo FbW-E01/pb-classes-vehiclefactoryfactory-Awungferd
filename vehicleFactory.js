@@ -44,6 +44,5 @@ for (let index = 0; index < vehicles.length; index++) {
   const element = vehicles[index];
   console.log(element);
 }
-console.log("The *type* of factories created are:", typeof vehicles);
-
 // Question: Check the *type* of your factories and of the objects that your factories create - what is the type of a factory and what is the type of a created object? Add your answer as comments into into your solution file.
+console.log("The *type* of factories created are:", typeof vehicles);
